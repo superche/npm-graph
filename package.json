@@ -4,6 +4,7 @@
   "description": "npm dependency graph visualizer",
   "author": "superche <shawche@outlook.com>",
   "private": true,
+  "homepage": "https://blog.chezs.me/npm-graph/",
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
